@@ -10,7 +10,7 @@ Markdown==3.4.1
 pytz==2022.2.1
 secure-smtplib==0.1.1
 sqlparse==0.4.2
-zipp==3.11.0
+zipp==3.19.1
 gunicorn
 Werkzeug
 django-sslserver
